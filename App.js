@@ -85,7 +85,7 @@ export default class App extends Component {
             Welcome to SadrGroup!
           </Text>
           <Text style={styles.instructions}>
-            To get started, edit App.js
+            Splash Screen Test
           </Text>
           <Text style={styles.instructions}>
             {instructions}
