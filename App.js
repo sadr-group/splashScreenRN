@@ -86,6 +86,7 @@ export default class App extends Component {
           </Text>
           <Text style={styles.instructions}>
             Splash Screen Test
+
           </Text>
           <Text style={styles.instructions}>
             {instructions}
